@@ -1,9 +1,11 @@
 📂 Pertemuan 1: Dasar Logika & Klasifikasi Mood
 Repositori ini berisi tugas pertama mata kuliah Praktikum Kecerdasan Buatan yang berfokus pada implementasi logika dasar menggunakan bahasa pemrograman Python.
 
-📝 Deskripsi TugasProgram mood_program.py dirancang untuk melakukan klasifikasi kondisi emosional (mood) berdasarkan input pengguna dengan menerapkan struktur kendali logika.
+📝 Deskripsi Tugas
+Program mood_program.py dirancang untuk melakukan klasifikasi kondisi emosional (mood) berdasarkan input pengguna dengan menerapkan struktur kendali logika.
 
-📂 Struktur FolderPlaintextPertemuan1/
+📂 Struktur Folder
+Pertemuan1/
 ├── mood_program.py    # File utama program logika mood
 └── README.md          # Dokumentasi tugas pertemuan 1
 
